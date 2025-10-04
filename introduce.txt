@@ -1,0 +1,21 @@
+ Giới thiệu bản thân
+
+Xin chào, tôi tên là Vũ Ngọc Quỳnh Thy.
+Hiện tại tôi đang là sinh viên ngành Công Nghệ Đa Phương Tiện tại Học Viện Công Nghệ Bưu Chính Viễn Thông.
+
+🔹 Sở thích
+- Nấu ăn và khám phá ẩm thực  
+- Thiết kế nhân vật sáng tạo  
+- Thiết kế ứng dụng và truyền thông số
+
+🔹 Kỹ năng
+- Ngôn ngữ lập trình: C++, Java  
+- Công cụ sử dụng: Git, Visual Studio Code, Jira, MySQL  
+- Quy trình phát triển phần mềm: Agile – Scrum, Waterfall
+
+🎯 Mục tiêu nghề nghiệp
+- Thiết kế game và nhân vật trong trò chơi điện tử  
+- Tham gia các dự án cộng đồng về artist và game design 
+- Phát triển sản phẩm truyền thông số mang tính sáng tạo và ứng dụng thực tế
+
+Cảm ơn bạn đã dành thời gian đọc phần giới thiệu của tôi. Hy vọng chúng ta sẽ có cơ hội hợp tác và chia sẻ đam mê sáng tạo trong tương lai!
